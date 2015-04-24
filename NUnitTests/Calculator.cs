@@ -12,6 +12,7 @@ namespace NUnitTests
 
         public double Subtract(double n1, double n2)
         {
+            // obviously made to fail
             double result = n1 - n2 + 2;
             return result; ;
         }

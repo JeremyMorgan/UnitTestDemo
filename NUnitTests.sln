@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTests", "NUnitTests\NUnitTests.csproj", "{9A38608A-EAAD-49E8-9402-554C7BA59220}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "NUnitTests\Application.csproj", "{9A38608A-EAAD-49E8-9402-554C7BA59220}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualTest", "ManualTest\ManualTest.csproj", "{1A9B1C28-1149-4623-981A-5A2FB2EC8199}"
 EndProject

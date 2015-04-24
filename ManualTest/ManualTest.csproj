@@ -47,9 +47,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NUnitTests\NUnitTests.csproj">
+    <ProjectReference Include="..\NUnitTests\Application.csproj">
       <Project>{9A38608A-EAAD-49E8-9402-554C7BA59220}</Project>
-      <Name>NUnitTests</Name>
+      <Name>Application</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

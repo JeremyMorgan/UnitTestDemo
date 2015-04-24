@@ -8,6 +8,10 @@ namespace ManualTest
 
         static void Main(string[] args)
         {
+            // this is a "manual" test to check values programatically. 
+            // ugly, ugly, ugly
+
+
             Calculator ourCalc = new Calculator();
             double n1 = 2;
             double n2 = 4;
@@ -79,8 +83,7 @@ namespace ManualTest
                 Console.WriteLine("Test Failed" + "\n");
             }
 
-
-
+            // for the pause to read it
             Console.ReadLine();
         }
     }

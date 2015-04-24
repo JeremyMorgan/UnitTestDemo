@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="619347b1-fc4b-4133-b571-0020d87ff3db" name="jmorgan@DEV01JMORG01 2015-04-24 14:19:11" runUser="EIDPASSPORT\jmorgan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="be5d11af-06aa-4864-b8a1-69492091424a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="jmorgan_DEV01JMORG01 2015-04-24 14_19_11">
+      <DeploymentItem filename="C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\NUnitTests\bin\Debug\NUnitTests.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-04-24T14:19:11.9703728-07:00" queuing="2015-04-24T14:19:12.0403721-07:00" start="2015-04-24T14:19:12.0403721-07:00" finish="2015-04-24T14:19:12.2203703-07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="4" executed="4" passed="3" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CheckMuliplication" storage="c:\users\jmorgan\documents\visual studio 2010\projects\nunittests\unittests\bin\debug\unittests.dll" id="284fd23e-2910-924f-7fdc-5693cf8e0c20">
+      <Execution id="90ac4941-a60f-4278-92cd-e557ee340cee" />
+      <TestMethod codeBase="C:/Users/jmorgan/documents/visual studio 2010/Projects/NUnitTests/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.UnitTest1, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckMuliplication" />
+    </UnitTest>
+    <UnitTest name="CheckAddition" storage="c:\users\jmorgan\documents\visual studio 2010\projects\nunittests\unittests\bin\debug\unittests.dll" id="f741987b-c5cb-cbe2-b71d-9819c6b91b49">
+      <Execution id="9af032de-02d6-4ed9-9387-a1b428ef3051" />
+      <TestMethod codeBase="C:/Users/jmorgan/documents/visual studio 2010/Projects/NUnitTests/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.UnitTest1, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckAddition" />
+    </UnitTest>
+    <UnitTest name="CheckDivision" storage="c:\users\jmorgan\documents\visual studio 2010\projects\nunittests\unittests\bin\debug\unittests.dll" id="e39e966b-3fb4-7481-d225-9e9dc26a9d7a">
+      <Execution id="8a248dab-351b-4212-8947-014c0d8f9af9" />
+      <TestMethod codeBase="C:/Users/jmorgan/documents/visual studio 2010/Projects/NUnitTests/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.UnitTest1, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckDivision" />
+    </UnitTest>
+    <UnitTest name="CheckSubtraction" storage="c:\users\jmorgan\documents\visual studio 2010\projects\nunittests\unittests\bin\debug\unittests.dll" id="4c11abdd-e8e6-b041-f203-e6261fe454f8">
+      <Execution id="d949553b-ad62-480e-9fc6-c56cef1fbf25" />
+      <TestMethod codeBase="C:/Users/jmorgan/documents/visual studio 2010/Projects/NUnitTests/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.UnitTest1, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CheckSubtraction" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="284fd23e-2910-924f-7fdc-5693cf8e0c20" executionId="90ac4941-a60f-4278-92cd-e557ee340cee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4c11abdd-e8e6-b041-f203-e6261fe454f8" executionId="d949553b-ad62-480e-9fc6-c56cef1fbf25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e39e966b-3fb4-7481-d225-9e9dc26a9d7a" executionId="8a248dab-351b-4212-8947-014c0d8f9af9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f741987b-c5cb-cbe2-b71d-9819c6b91b49" executionId="9af032de-02d6-4ed9-9387-a1b428ef3051" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="90ac4941-a60f-4278-92cd-e557ee340cee" testId="284fd23e-2910-924f-7fdc-5693cf8e0c20" testName="CheckMuliplication" computerName="DEV01JMORG01" duration="00:00:00.0098714" startTime="2015-04-24T14:19:12.0503720-07:00" endTime="2015-04-24T14:19:12.1803707-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="90ac4941-a60f-4278-92cd-e557ee340cee">
+    </UnitTestResult>
+    <UnitTestResult executionId="d949553b-ad62-480e-9fc6-c56cef1fbf25" testId="4c11abdd-e8e6-b041-f203-e6261fe454f8" testName="CheckSubtraction" computerName="DEV01JMORG01" duration="00:00:00.0124402" startTime="2015-04-24T14:19:12.1803707-07:00" endTime="2015-04-24T14:19:12.2003705-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d949553b-ad62-480e-9fc6-c56cef1fbf25">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;0&gt;. Actual:&lt;-2&gt;. </Message>
+          <StackTrace>   at UnitTests.UnitTest1.CheckSubtraction() in C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\UnitTests\UnitTest1.cs:line 22
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8a248dab-351b-4212-8947-014c0d8f9af9" testId="e39e966b-3fb4-7481-d225-9e9dc26a9d7a" testName="CheckDivision" computerName="DEV01JMORG01" duration="00:00:00.0002039" startTime="2015-04-24T14:19:12.2003705-07:00" endTime="2015-04-24T14:19:12.2003705-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8a248dab-351b-4212-8947-014c0d8f9af9">
+    </UnitTestResult>
+    <UnitTestResult executionId="9af032de-02d6-4ed9-9387-a1b428ef3051" testId="f741987b-c5cb-cbe2-b71d-9819c6b91b49" testName="CheckAddition" computerName="DEV01JMORG01" duration="00:00:00.0002031" startTime="2015-04-24T14:19:12.2003705-07:00" endTime="2015-04-24T14:19:12.2103704-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9af032de-02d6-4ed9-9387-a1b428ef3051">
+    </UnitTestResult>
+  </Results>
+</TestRun>
