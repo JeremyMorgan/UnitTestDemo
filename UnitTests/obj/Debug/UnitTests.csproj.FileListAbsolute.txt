@@ -1,0 +1,5 @@
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\UnitTests\obj\Debug\UnitTests.pdb

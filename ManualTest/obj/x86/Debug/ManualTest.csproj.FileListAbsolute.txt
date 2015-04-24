@@ -1,0 +1,7 @@
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\ManualTest\obj\x86\Debug\ManualTest.csprojResolveAssemblyReference.cache
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\ManualTest\bin\Debug\ManualTest.exe
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\ManualTest\bin\Debug\ManualTest.pdb
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\ManualTest\bin\Debug\NUnitTests.dll
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\ManualTest\bin\Debug\NUnitTests.pdb
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\ManualTest\obj\x86\Debug\ManualTest.exe
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\ManualTest\obj\x86\Debug\ManualTest.pdb

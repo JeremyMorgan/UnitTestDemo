@@ -1,0 +1,4 @@
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\jmorgan\documents\visual studio 2010\Projects\NUnitTests\NUnitTests\obj\Debug\NUnitTests.pdb
